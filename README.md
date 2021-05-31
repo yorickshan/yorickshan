@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yorickshan&show_icons=true&hide_border=true">
 
-<!--
-**yorickshan/yorickshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Yorickshan:
 
-Here are some ideas to get you started:
+💻 FrontEnd Engineer<br>
+🎓 Undergraduate from JIT<br>
+🔭 I’m currently working on Shouqianba<br>
+📝 Blog: [Yorickshan's Blog](https://yorickshan.netlify.app/)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+<br>
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
+<br>
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+<br>
+![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+<br>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=golang)
+
+### 🤝🏻 &nbsp;Contact with Me
+<a href="mailto:yorickshan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yorickshan@gmail.com-blue?style=flat-square&logo=gmail"></a>
