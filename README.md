@@ -3,8 +3,8 @@
 ### Hi there 👋 I'm Yorickshan:
 
 💻 FrontEnd Engineer<br>
-🎓 Undergraduate from JIT<br>
-🔭 I’m currently working on Shouqianba<br>
+<!-- 🎓 Undergraduate from JIT<br> -->
+<!-- 🔭 I’m currently working on Shouqianba<br> -->
 📝 Blog: [Yorickshan's Blog](https://yorickshan.netlify.app/)<br>
 
 ### 🛠 &nbsp;Tech Stack
