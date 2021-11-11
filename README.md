@@ -8,8 +8,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 じゅくれん：
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
+![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
