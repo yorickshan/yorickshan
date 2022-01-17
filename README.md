@@ -19,7 +19,6 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### 🤝🏻 &nbsp;Contact with Me
