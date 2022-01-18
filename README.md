@@ -10,15 +10,13 @@
 じゅくれん：
 ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
 ![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 <br>
 りょうこう：
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 ### 🤝🏻 &nbsp;Contact with Me
