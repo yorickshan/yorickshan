@@ -9,13 +9,13 @@
 - [🐦 语雀](https://www.yuque.com/yorickshan)
 
 ### 🛠 &nbsp;Tech Stack
-りょうこう：
+average：
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
 <br>
-じゅくれん：
+skilled：
 ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
 ![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
