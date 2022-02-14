@@ -19,8 +19,7 @@ Skilled：
 ![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
 ![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+![React (Native)](https://img.shields.io/badge/-React_(Native)-333333?style=flat&logo=react)
 ![Echarts](https://img.shields.io/badge/-Echarts-333333?style=flat&logo=Apache-ECharts)
 
 ### 🤝🏻 &nbsp;Contact with Me
