@@ -3,10 +3,7 @@
 ### Hi there 👋 I'm Yorickshan:
 
 💻 Front-end Engineer<br>
-<!-- 🔭 I’m currently working on Shouqianba<br> -->
 - [📝 Blog](https://yorickshan.netlify.app/)<br>
-- [📚 Notion](https://nettle-desk-424.notion.site/yorickshan-77663118e1d444709c2e24f69ece471e)
-- [🐦 语雀](https://www.yuque.com/yorickshan)
 
 ### 🛠 &nbsp;Tech Stack
 Average：
