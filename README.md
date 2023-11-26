@@ -10,6 +10,7 @@ Average：
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
 <br>
 Skilled：
