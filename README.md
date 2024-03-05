@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Yorickshan:
 
-💻 Front-end Engineer<br>
+💻 Full Stack Developer<br>
 - [📝 Blog](https://yorickshan.netlify.app/)<br><br><br>
 
 ### 🛠 &nbsp;Tech Stack
