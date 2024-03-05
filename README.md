@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Yorickshan:
 
 💻 Full Stack Developer<br>
-- [📝 Blog](https://yorickshan.netlify.app/)<br><br><br>
+- [📝 Blog](https://yorickshan.vercel.app/)<br><br><br>
 
 ### 🛠 &nbsp;Tech Stack
 Average：
