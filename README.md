@@ -1,9 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yorickshan&show_icons=true&hide_border=true">
-
 ### Hi there 👋 I'm Yorickshan:
 
 💻 Full Stack Developer<br>
-- [📝 Blog](https://yorickshan.vercel.app/)<br><br><br>
+- [📝 Blog](https://yorickshan.vercel.app/)
 
 ### 🛠 &nbsp;Tech Stack
 Average：
