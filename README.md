@@ -4,8 +4,8 @@
 - [📝 Blog](https://yorickshan.vercel.app/)
 
 ### 🛠 &nbsp;Tech Stack
-![JS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TS](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![JS](https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript)
+![TS](https://img.shields.io/badge/-TS-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![React (Native)](https://img.shields.io/badge/-React_(Native)-333333?style=flat&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
