@@ -10,6 +10,7 @@
 ![React (Native)](https://img.shields.io/badge/-React_(Native)-333333?style=flat&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Echarts](https://img.shields.io/badge/-Echarts-333333?style=flat&logo=Apache-ECharts)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
