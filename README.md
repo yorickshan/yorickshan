@@ -9,7 +9,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![React (Native)](https://img.shields.io/badge/-React_(Native)-333333?style=flat&logo=react)
 ![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri)
-![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Echarts](https://img.shields.io/badge/-Echarts-333333?style=flat&logo=Apache-ECharts)
 ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
